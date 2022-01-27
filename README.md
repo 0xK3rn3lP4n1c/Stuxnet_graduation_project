@@ -4,7 +4,7 @@ This code is composed for graduation project. So it's for educational purposes o
 
 reference articles: 
 
-- - Zero Days. 2016. [belgesel] Directed by A. Gibney.
+- Zero Days. 2016. [Documentary] Directed by A. Gibney.
 - http://www.codeproject.com/Articles/246545/Stuxnet-Malware-Analysis-Paper 
 - https://www.esetnod32.ru/company/viruslab/analytics/doc/Stuxnet_Under_the_Microscope.pdf
 - "The Real Story of Stuxnet". IEEE  2013.
